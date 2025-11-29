@@ -32,7 +32,7 @@ question_data = [
     {
         "category": "Science: Computers",
         "type": "boolean",
-        "diffi    dr-------------------------------------culty": "medium",
+        "difficulty": "medium",
         "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
         "correct_answer": "False",
         "incorrect_answers": [
